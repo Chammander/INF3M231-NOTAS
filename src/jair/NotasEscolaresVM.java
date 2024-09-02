@@ -42,6 +42,7 @@ public class NotasEscolaresVM {
                     + notas[i][4] + " e foi " + alunos[i][1] + ".");
         }
         System.out.println("+-- Programa Encerrado --+");
-        System.out.print("Alterado no navegador!")
+        System.out.print("Alterado no navegador!");
+        System.out.println("Teste de push!");
     }
 }
